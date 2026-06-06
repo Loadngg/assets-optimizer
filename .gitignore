@@ -2,4 +2,9 @@ config/config.json
 
 .vscode
 .idea
+
 .venv
+
+models
+output
+compressed
