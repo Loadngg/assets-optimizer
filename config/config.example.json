@@ -1,4 +1,6 @@
 {
 	"asset_path": "model.fbx",
-	"output_dir": "compressed"
+	"output_dir": "compressed",
+	"show_chart": false,
+	"print_to_console": false
 }
